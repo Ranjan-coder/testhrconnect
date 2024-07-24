@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/174.a93bf8b3.chunk.js","mappings":"0JAEe,SAASA,IACtB,OACEC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,UAET,C","sources":["pages/Employer/Employees/Absent.js"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function Absent() {\r\n  return (\r\n    <div>Absent</div>\r\n  )\r\n}\r\n"],"names":["Absent","_jsx","children"],"sourceRoot":""}

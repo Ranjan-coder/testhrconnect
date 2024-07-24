@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[4993],{34993:(e,n,r)=>{r.r(n),r.d(n,{default:()=>s});r(65043);var t=r(70579);function s(){return(0,t.jsx)("div",{children:"LateArrivals"})}}}]);
+//# sourceMappingURL=4993.d273b904.chunk.js.map

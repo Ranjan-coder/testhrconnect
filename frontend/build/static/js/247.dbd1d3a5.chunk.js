@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[247],{90247:(e,n,r)=>{r.r(n),r.d(n,{default:()=>u});r(65043);var t=r(70579);function u(){return(0,t.jsx)("div",{children:"OnTime"})}}}]);
+//# sourceMappingURL=247.dbd1d3a5.chunk.js.map

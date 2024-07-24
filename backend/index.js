@@ -4,6 +4,10 @@ const app = express();
 app.use(express.json());
 const session = require("express-session");
 const passport = require("passport");
+
+//require to add build
+const path = require("path")
+
 const dotenv = require("dotenv");
 dotenv.config();
 
@@ -15,6 +19,12 @@ app.use(
     credentials: true,
   })
 );
+
+//frontend buildadded
+const _dirname = path.dirname("")
+const buildpath = path.join(_dirname,"../frontend/build")
+app.use(express.static(buildpath))
+
 
 app.use(
   session({

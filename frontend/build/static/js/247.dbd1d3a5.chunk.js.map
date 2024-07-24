@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/247.dbd1d3a5.chunk.js","mappings":"0JAEe,SAASA,IACtB,OACEC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,UAET,C","sources":["pages/Employer/Employees/OnTime.js"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function OnTime() {\r\n  return (\r\n    <div>OnTime</div>\r\n  )\r\n}\r\n"],"names":["OnTime","_jsx","children"],"sourceRoot":""}
