@@ -58,11 +58,11 @@ app.use("/api", userRoutes);
 const HrRoutes = require("./Routes/HrRoutes");
 app.use("/api/hr", HrRoutes);
 
-const googleRoutes = require("./Routes/GoogleRoutes.js");
-app.use("/", googleRoutes);
+// const googleRoutes = require("./Routes/GoogleRoutes.js");
+// app.use("/", googleRoutes);
 
-const linkedinRoutes = require("./Routes/LinkedinRoutes.js");
-app.use("/", linkedinRoutes);
+// const linkedinRoutes = require("./Routes/LinkedinRoutes.js");
+// app.use("/", linkedinRoutes);
 
 //! Interview Schedule Related Routes and import
 const AptitudeQuestionRouter = require("./Routes/InterviewScheduleRoutes/AptitudeRoundRoute");
